@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fcEVG/GNQIlv/eIjB3lQTVBMbSe6kvIIBPEnCQFdiko=",
+  "Source": "AspNetHangfire",
+  "BasePath": "_content/AspNetHangfire",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
